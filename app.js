@@ -1,6 +1,6 @@
 var express = require('express');
 var bodyParser = require("body-parser");
-var User = require("./schemas/User.js")
+var User = require("./schemas/User.js");
 var Hospital = require('./schemas/Hospital.js');
 var Post = require("./schemas/Post.js");
 var Order = require("./schemas/Order.js");

@@ -1,4 +1,4 @@
-var express = require('express')
+var express = require('express');
 var bodyParser = require("body-parser");
 var User = require("./schemas/User.js");
 var Hospital = require('./schemas/Hospital.js');
